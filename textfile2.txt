@@ -1,1 +1,2 @@
 this is contents of newfile2
+add line 2

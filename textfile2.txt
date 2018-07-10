@@ -1,3 +1,7 @@
 this is contents of newfile2
 add line 2
+<<<<<<< .merge_file_a09784
 ls23
+=======
+ls 2
+>>>>>>> .merge_file_a09396

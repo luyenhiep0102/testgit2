@@ -1,2 +1,3 @@
 this is contents of newfile2
 add line 2
+ls23
